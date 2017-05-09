@@ -6,7 +6,7 @@
 # Inspired from Violent Python
 #
 # Password File Format (min): username:passwordhash
-# Dictionary File Format: word per line
+# Dictionary File Format: one word per line
 #
 # --- Credits ---
 # Line Count (bufcount): 	http://stackoverflow.com/a/850962
