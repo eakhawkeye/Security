@@ -2,7 +2,7 @@
 # 
 # Unix Dictionary Password Cracker
 #
-# by: Mike Marino
+# by: EakHawkEye
 # Inspired from Violent Python
 #
 # Password File Format (min): username:passwordhash
